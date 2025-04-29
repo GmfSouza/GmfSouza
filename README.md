@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gabry 👋
 
-<!--
-**GmfSouza/GmfSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying **IT Management** and working as a **Backend Development Intern**. I build and integrate **RESTful APIs** using technologies like **JavaScript, TypeScript, and Node.js**, with a focus on writing clean, efficient, and secure code.
 
-Here are some ideas to get you started:
+I enjoy learning through hands-on experience and believe in improving a little every day — both technically and as a team contributor. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+- JavaScript | TypeScript | Node.js  
+- Express | MongoDB | Mongoose  
+- SQL (queries, data manipulation, basic modeling)  
+- Java (Object-Oriented Programming)  
+- Git & GitHub  
+- RESTful APIs  
+- Agile methodologies (Scrum)  
+- Web security best practices  
+
+### 📌 Current Goals
+- Improve my backend development skills  
+- Contribute to open-source projects  
+- Build practical projects to strengthen my portfolio  
+
+### 📫 Let’s connect
+You can find me on [LinkedIn](https://www.linkedin.com/in/gmfsouza/) or check out my pinned repositories to see what I’ve been working on.
+
+Thanks for stopping by!

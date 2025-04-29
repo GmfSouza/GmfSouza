@@ -1,14 +1,14 @@
-# Olá, meu nome é Gabry
+## Hi, my name is Gabryel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gmfsouza)
-[![Gmail](https://img.shields.io/badge/Gmail-seuemail@gmail.com-purple?logo=gmail&style=flat-square)](mailto:gabryel.macedo13@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-saulit/)](https://www.linkedin.com/in/gmfsouza)
+[![Gmail Badge](https://img.shields.io/badge/-brenda.saulit@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenda.saulit@gmail.com)](mailto:gabryel.macedo13@gmail.com)
 
--🎓 Currently studying **IT Management**  
--👨‍💻 Software development student | Backend-focused  
+- 🎓 Currently studying **IT Management**  
+- 👨‍💻 Software development student | Backend-focused  
 
 ---
 
-## Tecnologias 💻
+## Technologies 💻
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>

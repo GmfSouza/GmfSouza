@@ -1,7 +1,7 @@
 ## Hi, my name is Gabryel
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gmfsouza/)](https://www.linkedin.com/in/gmfsouza)
-[![Gmail Badge](https://img.shields.io/badge/-gabryel.macedo13@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabryel.macedo13@gmail.com)](mailto:gabryel.macedo13@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabryel.macedo13@gmail.com-dd4b39?style=flat-square&logo=gmail&logoColor=white&link=mailto:gabryel.macedo13@gmail.com)](mailto:gabryel.macedo13@gmail.com)
 
 - 🎓 Currently studying **IT Management**  
 - 👨‍💻 Software development student | Backend-focused  

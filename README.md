@@ -1,6 +1,6 @@
 ## Hi, my name is Gabryel
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-saulit/)](https://www.linkedin.com/in/gmfsouza)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gmfsouza/)](https://www.linkedin.com/in/gmfsouza)
 [![Gmail Badge](https://img.shields.io/badge/-brenda.saulit@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenda.saulit@gmail.com)](mailto:gabryel.macedo13@gmail.com)
 
 - 🎓 Currently studying **IT Management**  

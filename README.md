@@ -1,25 +1,32 @@
-# Hi, I'm Gabry 👋
+## 👋 Hello, my name is Gabryel
 
-I'm currently studying **IT Management** and working as a **Backend Development Intern**. I build and integrate **RESTful APIs** using technologies like **JavaScript, TypeScript, and Node.js**, with a focus on writing clean, efficient, and secure code.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/gmfsouza)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:gabryel.macedo13@gmail.com)
 
-I enjoy learning through hands-on experience and believe in improving a little every day — both technically and as a team contributor. 
+🎓 Currently studying **IT Management**  
+👨‍💻 Software development student | Backend-focused  
 
-### 💻 Tech Stack & Tools
-- JavaScript | TypeScript | Node.js  
-- Express | MongoDB | Mongoose  
-- SQL (queries, data manipulation, basic modeling)  
+---
+
+## 💻 Technologies
+
+- JavaScript / TypeScript  
+- Node.js / Express  
+- MongoDB / Mongoose  
 - Java (Object-Oriented Programming)  
+- SQL / MySQL  
 - Git & GitHub  
 - RESTful APIs  
 - Agile methodologies (Scrum)  
 - Web security best practices  
 
-### 📌 Current Goals
-- Improve my backend development skills  
-- Contribute to open-source projects  
-- Build practical projects to strengthen my portfolio  
+---
 
-### 📫 Let’s connect
-You can find me on [LinkedIn](https://www.linkedin.com/in/gmfsouza/) or check out my pinned repositories to see what I’ve been working on.
+## 🚀 My Skills
 
-Thanks for stopping by!
+- API development and integration  
+- Version control with Git  
+- Backend-focused problem solving  
+- Team collaboration in agile environments  
+- Database design and queries  
+

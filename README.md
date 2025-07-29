@@ -3,38 +3,40 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gmfsouza/)](https://www.linkedin.com/in/gmfsouza)
 [![Gmail Badge](https://img.shields.io/badge/-gabryel.macedo13@gmail.com-dd4b39?style=flat-square&logo=gmail&logoColor=white&link=mailto:gabryel.macedo13@gmail.com)](mailto:gabryel.macedo13@gmail.com)
 
-- 🎓 Currently studying **IT Management**  
-- 👨‍💻 Software development student | Backend-focused  
+- 🎓 Currently studying **Computer Science**  
+- 👨‍💻 Software development student | Backend-focused
+- ☁️ 1x **AWS Certified Cloud Practitioner** [View Credential](https://www.credly.com/badges/05debc39-8cee-4ec3-ac2f-ef9c59e00bae)
 
 ---
 
 ## Technologies 💻
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql,mongodb,dynamodb,js,ts,nodejs,nestjs,docker,git,github,aws" />
 </p>
+
 
 - Java  
 - MySQL  
+- PostgreSQL  
+- MongoDB  
+- DynamoDB  
 - JavaScript  
 - TypeScript  
 - Node.js  
-- Express  
-- MongoDB  
+- Nest.js 
+- Docker  
 - Git & GitHub  
+- AWS (SES, S3, Lambda) 
 
 
 ## 🚀 My Skills
 
 - API development and integration  
+- Cloud computing with AWS  
+- Containerization with Docker  
 - Version control with Git  
 - Backend-focused problem solving  
 - Team collaboration in agile environments  
-- Database design and queries  
+- Relational and non-relational database design  
+- CI/CD principles and secure development practices 
